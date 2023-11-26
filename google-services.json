@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248743282712",
+    "project_id": "auralbase",
+    "storage_bucket": "auralbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248743282712:android:643353484e1c34e62d9b6d",
+        "android_client_info": {
+          "package_name": "com.example.audio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFacmGUrbweh-iPwuKzZo-zpkwfni-CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
